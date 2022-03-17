@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Starwars_API/static/css/main.7ed7ba5b.css",
+    "main.js": "/Starwars_API/static/js/main.1ac1b217.js",
+    "static/js/787.cfd8f164.chunk.js": "/Starwars_API/static/js/787.cfd8f164.chunk.js",
+    "index.html": "/Starwars_API/index.html",
+    "main.7ed7ba5b.css.map": "/Starwars_API/static/css/main.7ed7ba5b.css.map",
+    "main.1ac1b217.js.map": "/Starwars_API/static/js/main.1ac1b217.js.map",
+    "787.cfd8f164.chunk.js.map": "/Starwars_API/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ed7ba5b.css",
+    "static/js/main.1ac1b217.js"
+  ]
+}
